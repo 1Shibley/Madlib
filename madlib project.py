@@ -1,4 +1,3 @@
-import madlib_template
 class madlibs:
     def __init__(self,word_category,template):
         self.word_categories=word_category
